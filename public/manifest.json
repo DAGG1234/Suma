@@ -1,0 +1,16 @@
+{
+  "name": "SumaApp Finance Suite",
+  "short_name": "SumaApp",
+  "description": "Gestiona tus finanzas, transacciones, deudas y metas de ahorro",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/logoSuma.png",
+      "sizes": "2000x2000",
+      "type": "image/png"
+    }
+  ]
+}
